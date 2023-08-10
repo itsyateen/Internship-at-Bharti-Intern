@@ -1,4 +1,4 @@
-# Internship-at-Bharti-Intern
+# Internship-at-Bhart-Intern
 
 The Titanic Dataset Analysis project delves into one of the most infamous maritime disasters in history – the sinking of the RMS Titanic. This project, undertaken as part of the internship with Bhart-Intern, involves a comprehensive examination of the dataset pertaining to the passengers aboard the Titanic during its ill-fated maiden voyage.
 
